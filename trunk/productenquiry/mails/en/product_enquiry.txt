@@ -1,0 +1,18 @@
+Hi {name},
+
+{customer} has enquired about the product that (s)he is interested in.
+
+{product}: {product_link}
+
+Email: {customeremail}
+Phone Number: {customerphone}
+Country: {customercountry}
+State: {customerstate}
+Enquiry: {enquiry}
+
+{product}: {product_link}
+
+{shop_name} - {shop_url}
+
+
+{poweredby_url}
