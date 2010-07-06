@@ -1,5 +1,5 @@
 #labels Phase-Implementation,Phase-Deploy
-#Prestashop - Product Enquiry Module
+Prestashop - Product Enquiry Module
 
 = Introduction =
 
